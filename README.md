@@ -3,20 +3,13 @@
 2.Uporablajeni materiali:
 Arduino UNO x1,
 breadboard x1,
-kabelj,
+zice,
 rele x2,
-senzor za blizino x3,
+senzor za blizino (tipka) x3,
 upor x7,
 motor x1,
 tipka x3.
 
-
-3.✔️
-4.✔️
-5.✔️
-6.✔️
-7.✔️
-8.komentar:
 - prototip je nakazal težave pri upravljanju motorja: treba je vpoštevati vztrajnost elektromotorja, pri morebitnem nadaljnem razvoju;
 - inputi so brez dobrega razloga razdeljeni na NO/NC; za čitljivost se lahko to odpravi;
 
@@ -25,3 +18,4 @@ tipka x3.
 ![Alt text](vezalna_shema.png?raw=true "Title")
 
 [![IWatch the video](vezje.jpg?raw=true)](video.MOV?raw=true)
+klikni na sliko za video
