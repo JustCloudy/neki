@@ -19,3 +19,9 @@ tipka x3.
 8.komentar:
 - prototip je nakazal težave pri upravljanju motorja: treba je vpoštevati vztrajnost elektromotorja, pri morebitnem nadaljnem razvoju;
 - inputi so brez dobrega razloga razdeljeni na NO/NC; za čitljivost se lahko to odpravi;
+
+![Alt text](shema.png?raw=true "Title")
+
+![Alt text](vezalna_shema.png?raw=true "Title")
+
+![Alt text](vezje.jpg?raw=true "Title")
