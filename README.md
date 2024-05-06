@@ -16,4 +16,6 @@ tipka x3.
 5.✔️
 6.✔️
 7.✔️
-8.komentar
+8.komentar:
+- prototip je nakazal težave pri upravljanju motorja: treba je vpoštevati vztrajnost elektromotorja, pri morebitnem nadaljnem razvoju;
+- inputi so brez dobrega razloga razdeljeni na NO/NC; za čitljivost se lahko to odpravi;
