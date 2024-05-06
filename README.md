@@ -24,4 +24,4 @@ tipka x3.
 
 ![Alt text](vezalna_shema.png?raw=true "Title")
 
-[![IMAGE ALT TEXT](vezje.jpg?raw=true)](video.MOV?raw=true)
+[![IWatch the video](vezje.jpg?raw=true)](video.MOV?raw=true)
